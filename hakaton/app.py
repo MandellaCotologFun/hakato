@@ -10,7 +10,7 @@ facts_list = [
 ]
 
 memes_list = [
-    "memes/bear1.png",
+    "memes/medved.png",
     "memes/meme2.png",
     "memes/meme3.png"
 ]
