@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(180deg, #e6f0fa, #dfe7ee);
+}
+
+button:hover {
+  background: linear-gradient(
+    90deg,
+    red, orange, yellow, green, cyan, blue, violet
+  );
+  color: white;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+  transform: scale(1.05);
+}
+
+#Fact_list {
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
